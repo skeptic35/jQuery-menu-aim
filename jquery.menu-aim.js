@@ -276,7 +276,7 @@
                 // increase (somewhat counterintuitively).
                 function slope(a, b) {
                     return (b.y - a.y) / (b.x - a.x);
-                };
+                }
 
                 var decreasingCorner = upperRight,
                     increasingCorner = lowerRight;
@@ -328,6 +328,6 @@
 
         $(document).mousemove(mousemoveDocument);
 
-    };
+    }
 }));
 
