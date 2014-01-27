@@ -1,0 +1,8 @@
+{
+	"name": "menu-aim",
+	"version": "1.1.0",
+	"description": "menu-aim is a jQuery plugin for dropdown menus that can differentiate between a user trying hover over a dropdown item vs trying to navigate into a submenu's contents.",
+	"license" : "MIT",
+	"main": "jquery-menu-aim.js",
+	"dependencies": ["jquery"]
+}
